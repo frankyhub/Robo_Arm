@@ -170,7 +170,7 @@ void loop()
 
 ## Verdrahten
 
-Verdrahte die Bauteile mit dem NANO-Shield
+Verdrahte die Bauteile mit dem [NANO-Shield](https://github.com/frankyhub/KiCad-Shield/tree/main/NANO_Robo_Arm)
 
 + Poti Drehen = A1;    
 + Poti Kippen = A2; 
