@@ -10,7 +10,7 @@ rotate([180, 0, 0]) {
 
 
     linear_extrude(height = 3, center = true, convexity = 10)
-import ("GreifarmplatteV4c.svg");
+import ("Greifarmplatte.svg");
 }
 }
 /*
