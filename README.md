@@ -163,6 +163,24 @@ void loop()
 
 ```
 
+---
+
+## Verdarhten
+
+Verdrahte die Bauteile
+
+![Bild](pic/17greifarm.png)
+
+---
+
+## Montage im Potigehäuse
+
+Montiere die Bauteile in das Lasercutter-Gehäuse
+
+![Bild](pic/18greifarm.png)
+
+---
+
 Fertig!
 
 ---
