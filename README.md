@@ -32,6 +32,11 @@ Das benötigen wir für den Robo Arm:
 | 5  | M3 Mutter selbstsichernd   |
 | 1  |  M3 x 30 Abstandshalter  |
 | 1  |  M3 x 40 Abstanshalter  |
+| 1  |  Axialkugellager 51108 40x60x13 mm  |
+| 1  |  3D-Druckteile  |
+| 2  |  Lasercutter-Teile  |
+
+
 
 ---
 
