@@ -57,8 +57,6 @@ Das benötigen wir für den Robo Arm:
 
 ## Gelenkarm Montage
 
-![Bild](pic/04greifarm.png)
-
 ![Bild](pic/05greifarm.png)
 
 ![Bild](pic/06greifarm.png)
@@ -67,11 +65,11 @@ Das benötigen wir für den Robo Arm:
 
 ![Bild](pic/08greifarm.png)
 
+![Bild](pic/09greifarm.png)
+
 ---
 
 ## Greifer Montage
-
-![Bild](pic/09greifarm.png)
 
 ![Bild](pic/10greifarm.png)
 
@@ -89,7 +87,7 @@ Das benötigen wir für den Robo Arm:
 
 ---
 
-## Pragrmmieren
+## Programmieren
 
 Programmiere jetzt den Robo Arm in Tinkercad, teste dein Programm
 und lade dann das Programm in den Microcontroller
@@ -165,7 +163,7 @@ void loop()
 
 ---
 
-## Verdarhten
+## Verdrahten
 
 Verdrahte die Bauteile
 
