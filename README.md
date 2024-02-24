@@ -172,6 +172,17 @@ void loop()
 
 Verdrahte die Bauteile mit dem NANO-Shield
 
++ Poti Drehen = A1;    
++ Poti Kippen = A2; 
++ Poti Heben = A3; 
++ Poti Greifen = A4;    
+
++ Servo Greifarm = 6*
++ Servo Drehteller = 9*
++ Servo Kippen = 10*
++ Servo Heben = 11*
+
+
 ![Bild](pic/19greifarm.png)
 
 ![Bild](pic/17greifarm.png)
