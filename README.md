@@ -170,7 +170,9 @@ void loop()
 
 ## Verdrahten
 
-Verdrahte die Bauteile
+Verdrahte die Bauteile mit dem NANO-Shield
+
+![Bild](pic/19greifarm.png)
 
 ![Bild](pic/17greifarm.png)
 
