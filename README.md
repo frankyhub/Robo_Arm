@@ -85,15 +85,14 @@ Das benötigen wir für den Robo Arm:
 
 ![Bild](pic/15greifarm.png)
 
+![Bild](pic/16greifarm.png)
+
 ---
 
 ## Pragrmmieren
 
 Programmiere jetzt den Robo Arm in Tinkercad, teste dein Programm
 und lade dann das Programm in den Microcontroller
-
-![Bild](pic/16greifarm.png)
-
 
 ---
 
