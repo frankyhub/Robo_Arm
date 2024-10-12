@@ -1,5 +1,18 @@
 <a name="oben"></a>
 
+<div align="center">
+
+|[:skull:ISSUE](https://github.com/frankyhub/Robo_Arm/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Robo_Arm/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Robo_Arm/wiki)||
+|--|--|--|--|
+| | | | |
+|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2018-blue)|<a href="https://github.com/frankyhub/Robo_Arm/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Robo_Arm)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Robo_Arm)|<a href="https://github.com/frankyhub/Robo_Arm/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Robo_Arm)|<a href="https://github.com/frankyhub/Robo_Arm/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Robo_Arm)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Robo_Arm)| <a href="https://github.com/frankyhub/Robo_Arm/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Robo_Arm/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+</div>
+
+
+
+
+
 # Robo Arm Montage Anleitung
 
 
