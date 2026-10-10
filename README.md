@@ -5,8 +5,8 @@
 |[:skull:ISSUE](https://github.com/frankyhub/Robo_Arm/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Robo_Arm/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Robo_Arm/wiki)||
 |--|--|--|--|
 | | | | |
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2018-blue)|<a href="https://github.com/frankyhub/Robo_Arm/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Robo_Arm)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Robo_Arm)|<a href="https://github.com/frankyhub/Robo_Arm/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Robo_Arm)|<a href="https://github.com/frankyhub/Robo_Arm/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Robo_Arm)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Robo_Arm)| <a href="https://github.com/frankyhub/Robo_Arm/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Robo_Arm/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+<a href="https://github.com/frankyhub/Robo_Arm/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Robo_Arm)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Robo_Arm)|<a href="https://github.com/frankyhub/Robo_Arm/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Robo_Arm)|<a href="https://github.com/frankyhub/Robo_Arm/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Robo_Arm)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2018-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Robo_Arm)| <a href="https://github.com/frankyhub/Robo_Arm/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Robo_Arm/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
 </div>
 
 
@@ -55,53 +55,69 @@ Das benötigen wir für den Robo Arm:
 
 ## Robo Arm Montage - Gesamtansicht
 
-![Bild](pic/01greifarm.png)
+<img src="pic/01greifarm.png" width="500"> 
+<br> <br>
 
 ---
 
 ## Drehteller Montage
 
-![Bild](pic/02greifarm.png)
+<img src="pic/02greifarm.png" width="500"> 
+<br> <br>
 
-![Bild](pic/03greifarm.png)
+<img src="pic/03greifarm.png" width="500"> 
+<br> <br>
 
 ---
 
 ## Axiallager Montage
 
-![Bild](pic/04greifarm.png)
+<img src="pic/04greifarm.png" width="500"> 
+<br> <br>
 
 ---
 
 ## Gelenkarm Montage
 
-![Bild](pic/05greifarm.png)
+<img src="pic/05greifarm.png" width="500"> 
+<br> <br>
 
-![Bild](pic/06greifarm.png)
+<img src="pic/06greifarm.png" width="500"> 
+<br> <br>
 
-![Bild](pic/07greifarm.png)
+<img src="pic/07greifarm.png" width="500"> 
+<br> <br>
 
-![Bild](pic/08greifarm.png)
+<img src="pic/08greifarm.png" width="500"> 
+<br> <br>
 
-![Bild](pic/09greifarm.png)
+<img src="pic/09greifarm.png" width="500"> 
+<br> <br>
 
 ---
 
 ## Greifer Montage
 
-![Bild](pic/10greifarm.png)
+<img src="pic/10greifarm.png" width="500"> 
+<br> <br>
 
-![Bild](pic/11greifarm.png)
+<img src="pic/11greifarm.png" width="500"> 
+<br> <br>
 
-![Bild](pic/12greifarm.png)
+<img src="pic/12greifarm.png" width="500"> 
+<br> <br>
 
-![Bild](pic/13greifarm.png)
+<img src="pic/13greifarm.png" width="500"> 
+<br> <br>
 
-![Bild](pic/14greifarm.png)
+<img src="pic/14greifarm.png" width="500"> 
+<br> <br>
 
-![Bild](pic/15greifarm.png)
+<img src="pic/15greifarm.png" width="500"> 
+<br> <br>
 
-![Bild](pic/16greifarm.png)
+<img src="pic/16greifarm.png" width="500"> 
+<br> <br>
 
 ---
 
@@ -195,10 +211,13 @@ Verdrahte die Bauteile mit dem [NANO-Shield](https://github.com/frankyhub/KiCad-
 + Servo Kippen = 10*
 + Servo Heben = 11*
 
+<img src="pic/19greifarm.png" width="500"> 
+<br> <br>
 
-![Bild](pic/19greifarm.png)
+<img src="pic/17greifarm.png" width="500"> 
+<br> <br>
 
-![Bild](pic/17greifarm.png)
+
 
 ---
 
@@ -206,7 +225,9 @@ Verdrahte die Bauteile mit dem [NANO-Shield](https://github.com/frankyhub/KiCad-
 
 Montiere die Bauteile in das Lasercutter-Gehäuse
 
-![Bild](pic/18greifarm.png)
+<img src="pic/18greifarm.png" width="500"> 
+<br> <br>
+
 
 ---
 
