@@ -7,16 +7,15 @@
 | | | | |
 <a href="https://github.com/frankyhub/Robo_Arm/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Robo_Arm)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Robo_Arm)|<a href="https://github.com/frankyhub/Robo_Arm/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Robo_Arm)|<a href="https://github.com/frankyhub/Robo_Arm/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Robo_Arm)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%20022-blue)|
 |![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Robo_Arm)| <a href="https://github.com/frankyhub/Robo_Arm/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Robo_Arm/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
+
+---
+
+<img src="pic/01greifarm.png" width="500"> 
+<br> <br>
+
 </div>
 
-
-
-
-
-# Robo Arm Montage Anleitung
-
-
-## Story:
+# Story:
 
 Diese Anleitung beschreibt den Aufbau eines Robo Arm aus 3mm Sperrholz mit einem Arduino NANO. Die Gelenke der Greifarme werden mit Servo-Motore angetrieben, die Ansteuerung erfolgt über einen Arduino NANO und vier Potis. Optional ist eine Ansteuerung über eine APP und die Drehwinkelanzeige mit einen OLED-Display möglich.
 
@@ -48,15 +47,6 @@ Das benötigen wir für den Robo Arm:
 | 1  |  Axialkugellager 51108 40x60x13 mm  |
 | 1  |  3D-Druckteile  |
 | 2  |  Lasercutter-Teile  |
-
-
-
----
-
-## Robo Arm Montage - Gesamtansicht
-
-<img src="pic/01greifarm.png" width="500"> 
-<br> <br>
 
 ---
 
